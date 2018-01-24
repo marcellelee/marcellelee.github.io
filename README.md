@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Marcelle's Mess
 
-You can use the [editor on GitHub](https://github.com/marcellelee/reference-zone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I done did got me ducks in a row.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Resources
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Other Resources
 
-# Header 1
-## Header 2
-### Header 3
+Not mine, but I learned from or regularly reference them.
 
-- Bulleted
-- List
+### [Wikipedia](wikipedia.com)
+Who doesn't use wikipedia lol!
 
-1. Numbered
-2. List
+## About Me
 
-**Bold** and _Italic_ and `Code` text
+Love too Chardonnay
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcellelee/reference-zone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Certifications
+- Sec+
+- CISSP
