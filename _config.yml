@@ -1,4 +1,24 @@
 theme: jekyll-theme-slate
-title: Marcelle's Handy Dandy References!
-description: Bear with me while I try to curate valuable information.
+title: Marcelle's Resources
+author:
+  name: Marcelle Lee
+  email : nil
+  github : marcellelee
+  twitter : nil
+  feedburner : nil
+description: Curated tips and tools for idiot fools
 exclude: ["README.md", "Rakefile", "LICENSE.md"]
+
+JB :
+  version : 0.3.0
+  archive_path: nil
+  categories_path : nil
+  tags_path : nil
+  atom_path : nil
+  rss_path : nil
+  comments :
+    provider : false
+  analytics :
+    provider : false
+  sharing :
+     provider : false
