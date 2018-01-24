@@ -1,10 +1,3 @@
----
-layout: page
-title: Reference Zone
-tagline: Tips and Tools for Idiot Fools
-description: Curated resources
----
-
 ## My Resources
 
 All of these were written or developed by me, at least in part.
