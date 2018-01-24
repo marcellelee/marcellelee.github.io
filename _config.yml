@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Marcelle's Handy Dandy References!
 description: Bear with me while I try to curate valuable information.
+exclude: ["README.md", "Rakefile", "LICENSE.md"]
