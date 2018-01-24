@@ -10,7 +10,7 @@ I done did got me ducks in a row.
 
 Not mine, but I learned from or regularly reference them.
 
-### [Wikipedia](wikipedia.com)
+### [Wikipedia](https://www.wikipedia.com)
 Who doesn't use wikipedia lol!
 
 ## About Me
