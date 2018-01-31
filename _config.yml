@@ -6,7 +6,7 @@ author:
   github : marcellelee
   twitter : nil
   feedburner : nil
-description: Curated tips and tools for idiot fools
+description: Curated tips and tools
 exclude: ["README.md", "Rakefile", "LICENSE.md"]
 
 JB :
