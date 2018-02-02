@@ -1,6 +1,6 @@
 ## About Me
 
-Security practictioner and educator. Cyber competition enthusiast.  Champion of diversity in tech.  Passionate about digital forensics, especially packet analysis, network security, and increasing user awareness.  Many certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
+Security practictioner, educator, and mentor. Passionate about digital forensics, especially packet analysis, network security, and increasing user awareness.  Cyber competition enthusiast.  Champion of diversity in tech.  Many certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
 
 ## My Resources
 
@@ -17,19 +17,28 @@ I build a lot of packet captures to use when I'm teaching or giving workshops.  
 
 [BSidesNoVA 2017, Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
 
-[CISSE 2017, The Art of Red and Blue Teaming: Teaching Cyber through Competition](https://goo.gl/VjPr4y) - in partnership with the [Women's Society of Cyberjutsu](http://womenscyberjutsu.com)
+[CISSE 2017, The Art of Red and Blue Teaming: Teaching Cyber through Competition](https://goo.gl/VjPr4y) - in partnership with the [Women's Society of Cyberjutsu](https://womenscyberjutsu.com)
 
-SkyDogCon 2017 - network traffic analysis https://goo.gl/WDrgmy
+[SkyDogCon 2017, Network Traffic Analysis](https://goo.gl/WDrgmy)
 
 
 ## Other Resources
 
 Not my own work, but I learned from or regularly reference these.
 
-## About Me
 
-Love too Chardonnay
+### My Certifications (not bragging - just in case anyone wants to ask me about them)
+Certified Information Systems Security Professional (CISSP)
+GIAC Security Essentials (GSEC) 
+GIAC Certified Intrusion Analyst (GCIA)
+GIAC Certified Forensic Analyst (GCFA)
+GIAC Certified Incident Handler (GCIH)
+GIAC Penetration Tester (GPEN)
+GIAC Critical Controls Certified (GCCC)
+GIAC Information Security Fundamentals (GISF)
+ISACA Certified Cybersecurity Practitioner (CSX-P)
+EC Council Certified Ethical Hacker (C|EH)
+CompTIA Security+ and Network+ 
+Cisco Certified Network Associate (CCNA) (expired)
+AccessData Certified Computer Examiner (ACE) (expired)
 
-### Certifications
-- Sec+
-- CISSP
