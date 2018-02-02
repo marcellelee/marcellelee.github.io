@@ -28,17 +28,18 @@ Not my own work, but I learned from or regularly reference these.
 
 
 ### My Certifications (not bragging - just in case anyone wants to ask me about them)
-Certified Information Systems Security Professional (CISSP)
-GIAC Security Essentials (GSEC) 
-GIAC Certified Intrusion Analyst (GCIA)
-GIAC Certified Forensic Analyst (GCFA)
-GIAC Certified Incident Handler (GCIH)
-GIAC Penetration Tester (GPEN)
-GIAC Critical Controls Certified (GCCC)
-GIAC Information Security Fundamentals (GISF)
-ISACA Certified Cybersecurity Practitioner (CSX-P)
-EC Council Certified Ethical Hacker (C|EH)
-CompTIA Security+ and Network+ 
-Cisco Certified Network Associate (CCNA) (expired)
-AccessData Certified Computer Examiner (ACE) (expired)
+-Certified Information Systems Security Professional (CISSP)
+-GIAC Security Essentials (GSEC) 
+-GIAC Certified Intrusion Analyst (GCIA)
+-GIAC Certified Forensic Analyst (GCFA)
+-GIAC Certified Incident Handler (GCIH)
+-GIAC Penetration Tester (GPEN)
+-GIAC Critical Controls Certified (GCCC)
+-GIAC Information Security Fundamentals (GISF)
+-ISACA Certified Cybersecurity Practitioner (CSX-P)
+-EC Council Certified Ethical Hacker (C|EH)
+-CompTIA Security+  
+-CompTIA Network+ 
+-Cisco Certified Network Associate (CCNA) (expired)
+-AccessData Certified Computer Examiner (ACE) (expired)
 
