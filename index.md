@@ -32,7 +32,7 @@ Not my own work, but I learned from or regularly reference these.
 
 
 
-## My Certifications (not bragging - just in case anyone wants to ask me about them)
+### My Certifications (not bragging - just in case anyone wants to ask me about them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
 * GIAC Certified Intrusion Analyst (GCIA)
@@ -42,7 +42,7 @@ Not my own work, but I learned from or regularly reference these.
 * GIAC Critical Controls Certified (GCCC)
 * GIAC Information Security Fundamentals (GISF)
 * ISACA Certified Cybersecurity Practitioner (CSX-P)
-* EC Council Certified Ethical Hacker (C|EH)
+* EC Council Certified Ethical Hacker (CEH)
 * CompTIA Security+  
 * CompTIA Network+ 
 * Cisco Certified Network Associate (CCNA) (expired)
