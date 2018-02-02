@@ -1,6 +1,6 @@
 ## About Me
 
-Security practictioner and educator. Cyber competition enthusiast.  Champion of diversity in tech.  Passionate about digital forensics, especially packet analysis, network security, and increasing user awareness.  Many certs and degrees.  Serial volunteer and public speaker.  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/).
+Security practictioner and educator. Cyber competition enthusiast.  Champion of diversity in tech.  Passionate about digital forensics, especially packet analysis, network security, and increasing user awareness.  Many certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
 
 ## My Resources
 
@@ -13,11 +13,11 @@ I build a lot of packet captures to use when I'm teaching or giving workshops.  
 
 ### Workshop Materials
 
-[BSidesCharm 2017, Digital Forensics 101](https://goo.gl/RCfNwM) - collaborated with Courtney Lancaster and Brian Moran 
+[BSidesCharm 2017, Digital Forensics 101](https://goo.gl/RCfNwM) - collaborated with [Courtney Lancaster](https://twitter.com/allth3things) and [Brian Moran](https://twitter.com/brianjmoran) 
 
-BSidesNoVA Forensics 2017 https://goo.gl/5phzNp
+[BSidesNoVA 2017, Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
 
-CISSE 2017 - red team/blue team https://goo.gl/VjPr4y
+[CISSE 2017, The Art of Red and Blue Teaming: Teaching Cyber through Competition](https://goo.gl/VjPr4y) - in partnership with the [Women's Society of Cyberjutsu](http://womenscyberjutsu.com)
 
 SkyDogCon 2017 - network traffic analysis https://goo.gl/WDrgmy
 
