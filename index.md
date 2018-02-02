@@ -1,6 +1,8 @@
 ## About Me
 
-Security practictioner, educator, and mentor. Passionate about digital forensics, especially packet analysis, network security, and increasing user awareness.  Cyber competition enthusiast.  Champion of diversity in tech.  Many certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
+Security practitioner, educator, and mentor. Passionate about digital forensics, especially packet analysis, network security, and increasing user awareness.  Cyber competition enthusiast.  Champion of diversity in tech.  Many certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
+
+Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! 
 
 ## My Resources
 
@@ -26,20 +28,23 @@ I build a lot of packet captures to use when I'm teaching or giving workshops.  
 
 Not my own work, but I learned from or regularly reference these.
 
+### Competitions
 
-### My Certifications (not bragging - just in case anyone wants to ask me about them)
--Certified Information Systems Security Professional (CISSP)
--GIAC Security Essentials (GSEC) 
--GIAC Certified Intrusion Analyst (GCIA)
--GIAC Certified Forensic Analyst (GCFA)
--GIAC Certified Incident Handler (GCIH)
--GIAC Penetration Tester (GPEN)
--GIAC Critical Controls Certified (GCCC)
--GIAC Information Security Fundamentals (GISF)
--ISACA Certified Cybersecurity Practitioner (CSX-P)
--EC Council Certified Ethical Hacker (C|EH)
--CompTIA Security+  
--CompTIA Network+ 
--Cisco Certified Network Associate (CCNA) (expired)
--AccessData Certified Computer Examiner (ACE) (expired)
+
+
+## My Certifications (not bragging - just in case anyone wants to ask me about them)
+* Certified Information Systems Security Professional (CISSP)
+* GIAC Security Essentials (GSEC) 
+* GIAC Certified Intrusion Analyst (GCIA)
+* GIAC Certified Forensic Analyst (GCFA)
+* GIAC Certified Incident Handler (GCIH)
+* GIAC Penetration Tester (GPEN)
+* GIAC Critical Controls Certified (GCCC)
+* GIAC Information Security Fundamentals (GISF)
+* ISACA Certified Cybersecurity Practitioner (CSX-P)
+* EC Council Certified Ethical Hacker (C|EH)
+* CompTIA Security+  
+* CompTIA Network+ 
+* Cisco Certified Network Associate (CCNA) (expired)
+* AccessData Certified Computer Examiner (ACE) (expired)
 
