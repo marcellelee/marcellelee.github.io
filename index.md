@@ -37,9 +37,6 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 * Cisco Certified Network Associate (CCNA) (expired)
 * AccessData Certified Computer Examiner (ACE) (expired)
 
-### Favorite Podcasts
-coming soon
-
 ### Favorite Quotes
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
@@ -71,6 +68,8 @@ coming soon
 - [Live Response Tools - Bambiraptor](https://www.brimorlabs.com/tools/)
 - [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
 
+### Podcasts
+coming soon
 
 ### Competitions
 coming soon
