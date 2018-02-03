@@ -1,8 +1,8 @@
 ## About Me
 
-Security practitioner, educator, and mentor. Passionate about digital forensics, especially packet analysis, network security, and increasing user awareness.  Cyber competition enthusiast.  Champion of diversity in tech.  Many certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
+Security practitioner, educator, and mentor. Passionate about network security, user awareness, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Many certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
 
-Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! 
+Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super helpful markdown cheatsheet.  
 
 ## My Resources
 
@@ -21,7 +21,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 
 [SkyDogCon 2017, Network Traffic Analysis](https://goo.gl/WDrgmy)
 
-### My Certifications (not bragging - just in case anyone wants to ask me about them)
+### My Certifications (not bragging - just in case anyone wants to know more about them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
 * GIAC Certified Intrusion Analyst (GCIA)
