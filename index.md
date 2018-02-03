@@ -21,6 +21,9 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 
 [SkyDogCon 2017, Network Traffic Analysis](https://goo.gl/WDrgmy)
 
+### Presentations
+[Presentations](https://goo.gl/7PuWZv) from talks and workshops.  
+
 ### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
@@ -37,6 +40,67 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 * Cisco Certified Network Associate (CCNA) (expired)
 * AccessData Certified Computer Examiner (ACE) (expired)
 
+## Other Resources
+
+Not my own work, but I learned from or regularly reference these.
+
+### Websites
+These are some of my go-to [websites](https://goo.gl/u8q6HR).
+
+### Cheat Sheets
+Many awesome [cheat sheets](https://goo.gl/XJd2KU).
+
+### Tools
+- [Autopsy](https://www.sleuthkit.org/autopsy/)
+- [FTK Imager](https://accessdata.com/product-download)
+- [Kali Linux](https://www.kali.org/)
+- [Live Response Tools - Bambiraptor](https://www.brimorlabs.com/tools/)
+- [nmap](https://nmap.org/)
+- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/)
+- [Volatility](http://www.volatilityfoundation.org/)
+- [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
+- [Wireshark](https://www.wireshark.org/)
+
+
+
+
+
+### Podcasts
+#### Cybersecurity-Related
+- Advanced Persistent Security
+- Beers with Talos
+- Brakeing Down Security
+- Darknet Diaries
+- Defensive Security
+- Down the Security Rabbit Hole
+- O'Reilly Security Podcast
+- Paul's Security Weekly
+- Recorded Future
+- Risky Business
+- Salted Hash
+- SANS Internet Storm Center
+- Smashing Security
+- The Cyberwire
+- The Shared Security Podcast
+- Unsupervised Learning with Daniel Miessler
+
+#### Other 
+- 99% Invisible
+- Anne Ortelee Weekly Weather
+- Criminal
+- Lore
+- Optimal Living Daily
+- Pod Save America
+- Recode Decode
+- Reveal
+- S-Town
+- Serial
+- Sword and Scale
+- The Daily (NYT)
+
+### Competitions
+coming soon
+
 ### Favorite Quotes
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
@@ -48,31 +112,6 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 > You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
-
-
-## Other Resources
-
-Not my own work, but I learned from or regularly reference these.
-
-### Websites
-These are some of my go-to [websites](https://goo.gl/u8q6HR).
-
-### Cheat Sheets
-coming soon
-
-### Tools (in no particular order)
-- [Wireshark](https://www.wireshark.org/)
-- [Volatility](http://www.volatilityfoundation.org/)
-- [nmap](https://nmap.org/)
-- [Kali Linux](https://www.kali.org/)
-- [Live Response Tools - Bambiraptor](https://www.brimorlabs.com/tools/)
-- [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
-
-### Podcasts
-coming soon
-
-### Competitions
-coming soon
 
 
 
