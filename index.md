@@ -1,12 +1,16 @@
 ## About Me
 
-Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). 
+Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share.  
 
-Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super helpful markdown cheatsheet.  
+Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super helpful markdown cheatsheet. 
+
+> The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
 ## My Resources
 
 All of these were primarily written or developed by me.  Reuse is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0). 
+
+> You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
 ### Packet Captures
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
@@ -20,6 +24,8 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 [CISSE 2017, The Art of Red and Blue Teaming: Teaching Cyber through Competition](https://goo.gl/VjPr4y) - in partnership with the [Women's Society of Cyberjutsu](https://womenscyberjutsu.com)
 
 [SkyDogCon 2017, Network Traffic Analysis](https://goo.gl/WDrgmy)
+
+> If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
 ### Presentations
 [Presentations](https://goo.gl/7PuWZv) from talks and workshops.  
@@ -37,12 +43,16 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 * EC Council Certified Ethical Hacker (CEH)
 * CompTIA Security+  
 * CompTIA Network+ 
-* Cisco Certified Network Associate (CCNA) (expired)
-* AccessData Certified Computer Examiner (ACE) (expired)
+* Cisco Certified Network Associate (CCNA) - expired
+* AccessData Certified Computer Examiner (ACE) - expired
+
 
 ## Other Resources
 
 Not my own work, but I learned from or regularly reference these.
+
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology. ~ Carl Sagan
+
 
 ### Websites
 These are some of my go-to [websites](https://goo.gl/u8q6HR).
@@ -61,11 +71,10 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 - [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
 - [Wireshark](https://www.wireshark.org/)
 
-
-
-
-
 ### Podcasts
+
+> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
+
 #### Cybersecurity-Related
 - Advanced Persistent Security
 - Beers with Talos
@@ -101,17 +110,7 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 ### Competitions
 coming soon
 
-### Favorite Quotes
 
-> The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
-
-> If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
-
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology. ~ Carl Sagan
-
-> You must be the change you wish to see in the world. ~ Mahatma Gandhi
-
-> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
 
 
 
