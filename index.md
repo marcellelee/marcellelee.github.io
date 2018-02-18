@@ -30,6 +30,8 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 ### Presentations
 [Presentations](https://goo.gl/7PuWZv) from talks and workshops.  
 
+<!-- Sometimes the most obvious answer is not the correct one. -->
+
 ### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
