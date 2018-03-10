@@ -1,6 +1,6 @@
 ## About Me
 
-Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share.  
+Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share. Courses I teach include network security, including Security+ prep, digital forensics, and linux.   
 
 Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super helpful markdown cheatsheet. 
 
@@ -14,15 +14,21 @@ Primarily written or developed by me. See below for different categories. Reuse 
 #### Packet Captures
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
 
+#### Blogs
+- [Cryptojacking - Coming Soon to a Server Near You](https://www.lookingglasscyber.com/blog/cryptojacking-coming-soon-server-near/)
+- [Down the BadRabbit Hole: Ransomware Delivered by Fake Flash Updates](https://www.lookingglasscyber.com/blog/tech-corner/badrabbit-hole-ransomware-delivered-fake-flash-updates/)
+
 #### Workshop Materials
 
-[BSidesNoVA 2017, Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
+[BSidesNoVA, 2018, CTF4Noobs Prep Workshop](https://goo.gl/8nNTQR) - collaborated with [Tyrone Wilson](https://twitter.com/tywilson21) and [Joyous Huggins](https://twitter.com/_Joyous_)
 
-[BSidesCharm 2017, Digital Forensics 101](https://goo.gl/RCfNwM) - collaborated with [Courtney Lancaster](https://twitter.com/allth3things) and [Brian Moran](https://twitter.com/brianjmoran) 
+[SkyDogCon 2017, Network Traffic Analysis](https://goo.gl/WDrgmy)
 
 [CISSE 2017, The Art of Red and Blue Teaming: Teaching Cyber through Competition](https://goo.gl/VjPr4y) - in partnership with the [Women's Society of Cyberjutsu](https://womenscyberjutsu.com)
 
-[SkyDogCon 2017, Network Traffic Analysis](https://goo.gl/WDrgmy)
+[BSidesCharm 2017, Digital Forensics 101](https://goo.gl/RCfNwM) - collaborated with [Courtney Lancaster](https://twitter.com/allth3things) and [Brian Moran](https://twitter.com/brianjmoran) 
+
+[BSidesNoVA 2017, Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
@@ -30,13 +36,11 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 [Presentations](https://goo.gl/7PuWZv) from talks and workshops.  
 
 <!-- Sometimes the most obvious answer is not the correct one. -->
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology. ~ Carl Sagan
 
 ### Other Resources
 
 Not my own work, but I learned from or regularly reference these.
-
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology. ~ Carl Sagan
-
 
 #### Websites
 These are some of my go-to [websites](https://goo.gl/u8q6HR).
@@ -78,6 +82,9 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 - Unsupervised Learning with Daniel Miessler
 
 #### Competitions
+coming soon
+
+#### Women in Tech
 coming soon
 
 ### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
