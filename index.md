@@ -18,10 +18,10 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 - [DDE Exploitation - Macros Aren't the Only Thing You Should be Counting](https://www.lookingglasscyber.com/blog/dde-exploitation-macros-arent-the-only-thing-you-should-be-counting/)
 - [Cryptojacking - Coming Soon to a Server Near You](https://www.lookingglasscyber.com/blog/cryptojacking-coming-soon-server-near/)
 - [Down the BadRabbit Hole: Ransomware Delivered by Fake Flash Updates](https://www.lookingglasscyber.com/blog/tech-corner/badrabbit-hole-ransomware-delivered-fake-flash-updates/)
--[Kickstarting Your Career in Cybersecurity - Defining Your Path](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-defining-path-marcelle-lee/)
--[Kickstarting Your Career in Cybersecurity - Cyber Competitions](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-cyber-competitions-lee/)
--[Kickstarting Your Career in Cybersecurity - Networking](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee/)
--[Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/_)
+- [Kickstarting Your Career in Cybersecurity - Defining Your Path](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-defining-path-marcelle-lee/)
+- [Kickstarting Your Career in Cybersecurity - Cyber Competitions](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-cyber-competitions-lee/)
+- [Kickstarting Your Career in Cybersecurity - Networking](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee/)
+- [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/_)
 
 #### Workshop Materials
 [WiCyS, 2018, Practical Network Forensics Workshop](https://goo.gl/vnq5mK) - collaborated with [Jennie Kam](https://twitter.com/TXJennieK) and [Ellie Daw](https://twitter.com/cryptoreo)
