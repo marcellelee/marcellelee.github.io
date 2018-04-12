@@ -1,8 +1,8 @@
 ## About Me
 
-Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share. Courses I teach include network security, including Security+ prep, digital forensics, and linux.   
+Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share. Courses I teach include network security,Security+ prep, digital forensics, and Linux.   
 
-Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super helpful markdown cheatsheet. 
+Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
@@ -37,12 +37,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 [BSidesNoVA 2017, Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
-
-#### Presentations
-[Presentations](https://goo.gl/7PuWZv) from talks and workshops.  
-
 <!-- Sometimes the most obvious answer is not the correct one. -->
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology. ~ Carl Sagan
 
 ### Other Resources
 
