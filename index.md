@@ -21,7 +21,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 - [Kickstarting Your Career in Cybersecurity - Defining Your Path](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-defining-path-marcelle-lee/)
 - [Kickstarting Your Career in Cybersecurity - Cyber Competitions](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-cyber-competitions-lee/)
 - [Kickstarting Your Career in Cybersecurity - Networking](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee/)
-- [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/_)
+- [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/)
 
 #### Workshop Materials
 [WiCyS, 2018, Practical Network Forensics Workshop](https://goo.gl/vnq5mK) - collaborated with [Jennie Kam](https://twitter.com/TXJennieK) and [Ellie Daw](https://twitter.com/cryptoreo)
