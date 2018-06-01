@@ -52,6 +52,7 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 > You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
 #### Tools
+- [010 Hex Editor](https://www.sweetscape.com/010editor/)
 - [Autopsy](https://www.sleuthkit.org/autopsy/)
 - [FTK Imager](https://accessdata.com/product-download)
 - [Kali Linux](https://www.kali.org/)
