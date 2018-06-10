@@ -1,6 +1,6 @@
 ## About Me
 
-Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share. Courses I teach include network security,Security+ prep, digital forensics, and Linux.   
+Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share. Courses I teach include network security, Security+ prep, digital forensics, and Linux.   
 
 Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
 
@@ -65,7 +65,7 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
 
-#### Podcasts
+#### Podcasts I Like
 - Advanced Persistent Security
 - Beers with Talos
 - Brakeing Down Security
@@ -84,9 +84,19 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 - Unsupervised Learning with Daniel Miessler
 
 #### Competitions
-coming soon
+Ladies Capture the Digital World, March 2018
 
-#### Women in Tech
+![Ladies Capture the Digital World](https://github.com/marcellelee/marcellelee.github.io/blob/master/assets/hackedctf.jpeg)
+
+##### Presentations
+- [Gamification & Security Webinar](https://katzcy.com/cybersecurity-calendar/cybersecurity-webinars/)
+##### Websites
+- [CTF Time](https://ctftime.org/)
+- [Cyber CompEx](https://www.cybercompex.org/category/competitions/)
+- [AACC Cyber Club Challenges](https://cybercompaacc.com/challenges/)
+- [Mitre Cyber Competition Practice Range](http://mitrecyberacademy.org/practice/)
+
+#### Diversity in Tech
 coming soon
 
 ### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
