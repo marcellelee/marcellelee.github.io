@@ -1,14 +1,12 @@
 ## About Me
-
-Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis.  Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). Most links are to my Google drive share. Courses I teach include network security, Security+ prep, digital forensics, and Linux.   
+Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis. Courses I teach include network security, Security+ prep, digital forensics, and Linux.   Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. 
 
 Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
-
+___
 ## Resources
-
-### My Resources
+### Resources Developed by Me
 Primarily written or developed by me. See below for different categories. Reuse is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0). 
 
 #### Packet Captures
@@ -38,10 +36,9 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 <!-- Sometimes the most obvious answer is not the correct one. -->
-
+___
 ### Other Resources
-
-Not my own work, but I learned from or regularly reference these.
+Things I regularly refer to and/or use.
 
 #### Websites
 These are some of my go-to [websites](https://goo.gl/u8q6HR).
@@ -52,20 +49,20 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 > You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
 #### Tools
-- [010 Hex Editor](https://www.sweetscape.com/010editor/)
-- [Autopsy](https://www.sleuthkit.org/autopsy/)
-- [FTK Imager](https://accessdata.com/product-download)
-- [Kali Linux](https://www.kali.org/)
-- [Live Response Tools - Bambiraptor](https://www.brimorlabs.com/tools/)
-- [nmap](https://nmap.org/)
-- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/)
-- [Volatility](http://www.volatilityfoundation.org/)
-- [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
-- [Wireshark](https://www.wireshark.org/)
+- [010 Hex Editor](https://www.sweetscape.com/010editor/) - hex editor
+- [Autopsy](https://www.sleuthkit.org/autopsy/) - forensic analysis
+- [FTK Imager](https://accessdata.com/product-download) - forensic acquisition
+- [Kali Linux](https://www.kali.org/) - Linux distro for pentesting
+- [Live Response Tools - Bambiraptor](https://www.brimorlabs.com/tools/) - incident response toolkit
+- [netcat](http://netcat.sourceforge.net/) - "swiss army knife" networking utility
+- [nmap](https://nmap.org/) - port scanner and more
+- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) - many utilities for Windows
+- [Volatility](http://www.volatilityfoundation.org/) - memory forensics
+- [Wireshark](https://www.wireshark.org/) - network forensics
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
 
-#### Podcasts I Like
+#### Podcasts
 - Advanced Persistent Security
 - Beers with Talos
 - Brakeing Down Security
@@ -82,23 +79,24 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 - The Cyberwire
 - The Shared Security Podcast
 - Unsupervised Learning with Daniel Miessler
-
-#### Competitions
+___
+### Competition Resources
 Ladies Capture the Digital World, March 2018
 
 ![Ladies Capture the Digital World](https://github.com/marcellelee/marcellelee.github.io/blob/master/assets/hackedctf.jpeg)
 
-##### Presentations
-- [Gamification & Security Webinar](https://katzcy.com/cybersecurity-calendar/cybersecurity-webinars/)
-##### Websites
+#### Presentations About Competitions
+- [Gamification & Security Webinar](https://summits.brighttalk.com/webinar/gamification-and-security-the-role-of-competitions-in-readiness-and-defense/?utm_campaign=Twitter&utm_source=brighttalk-sharing&utm_medium=web)
+
+#### Websites with a Focus on Competitions
 - [CTF Time](https://ctftime.org/)
 - [Cyber CompEx](https://www.cybercompex.org/category/competitions/)
 - [AACC Cyber Club Challenges](https://cybercompaacc.com/challenges/)
 - [Mitre Cyber Competition Practice Range](http://mitrecyberacademy.org/practice/)
-
-#### Diversity in Tech
+___
+### Diversity in Tech
 coming soon
-
+___
 ### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
@@ -114,7 +112,3 @@ coming soon
 * CompTIA Network+ 
 * Cisco Certified Network Associate (CCNA) - expired
 * AccessData Certified Computer Examiner (ACE) - expired
-
-
-
-
