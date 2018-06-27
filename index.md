@@ -4,6 +4,7 @@ Security practitioner, educator, and mentor. Passionate about network security, 
 Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who built this page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
+
 ___
 ## Resources
 ### Resources Developed by Me
@@ -38,6 +39,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
 <!-- placeholder for ctf text -->
+
 ___
 ### Other Resources
 Things I regularly refer to and/or use.
