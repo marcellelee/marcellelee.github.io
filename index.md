@@ -1,7 +1,7 @@
 ## About Me
 Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis. Courses I teach include network security, Security+ prep, digital forensics, and Linux.   Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. 
 
-Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who started this account and page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
+Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who built this page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 ___
@@ -13,6 +13,7 @@ Primarily written or developed by me. See below for different categories. Reuse 
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
 
 #### Blogs
+- [ATM Hacking - You Don't Have to Pay to Play](https://www.lookingglasscyber.com/blog/atm-hacking-you-dont-have-to-pay-to-play/)
 - [DDE Exploitation - Macros Aren't the Only Thing You Should be Counting](https://www.lookingglasscyber.com/blog/dde-exploitation-macros-arent-the-only-thing-you-should-be-counting/)
 - [Cryptojacking - Coming Soon to a Server Near You](https://www.lookingglasscyber.com/blog/cryptojacking-coming-soon-server-near/)
 - [Down the BadRabbit Hole: Ransomware Delivered by Fake Flash Updates](https://www.lookingglasscyber.com/blog/tech-corner/badrabbit-hole-ransomware-delivered-fake-flash-updates/)
@@ -35,7 +36,8 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 [BSidesNoVA 2017, Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
-<!-- Sometimes the most obvious answer is not the correct one. -->
+
+<!-- placeholder for ctf text -->
 ___
 ### Other Resources
 Things I regularly refer to and/or use.
@@ -79,6 +81,8 @@ Many awesome [cheat sheets](https://goo.gl/XJd2KU).
 - The Cyberwire
 - The Shared Security Podcast
 - Unsupervised Learning with Daniel Miessler
+
+> If you're making mistakes it means you're out there doing something. ~ Neil Gaiman
 ___
 ### Competition Resources
 Ladies Capture the Digital World, March 2018
