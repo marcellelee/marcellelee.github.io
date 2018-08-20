@@ -1,5 +1,5 @@
 ## About Me
-Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis. Courses I teach include network security, Security+ prep, digital forensics, and Linux.   Cyber competition enthusiast.  Champion of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. 
+Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis. Courses I teach include network security, Security+ prep, digital forensics, and Linux.   Cyber competition enthusiast.  Advocate of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. 
 
 Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who built this page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
 
@@ -23,7 +23,9 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 - [Kickstarting Your Career in Cybersecurity - Networking](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee/)
 - [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/)
 
-#### Workshop Materials
+#### Workshops and Talks
+[Defcon Skytalk, 2018, Hacking the Technical Interview](https://goo.gl/au31K2) - collaborated with [Kelley](https://twitter.com/CcSleuth)
+
 [WiCyS, 2018, Practical Network Forensics Workshop](https://goo.gl/vnq5mK) - collaborated with [Jennie Kam](https://twitter.com/TXJennieK) and [Ellie Daw](https://twitter.com/cryptoreo)
 
 [BSidesNoVA, 2018, CTF4Noobs Prep Workshop](https://goo.gl/8nNTQR) - collaborated with [Tyrone Wilson](https://twitter.com/tywilson21) and [Joyous Huggins](https://twitter.com/_Joyous_)
@@ -103,7 +105,7 @@ ___
 ### Diversity in Tech
 coming soon
 ___
-### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
+#### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
 * GIAC Certified Intrusion Analyst (GCIA)
