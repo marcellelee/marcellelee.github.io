@@ -14,6 +14,7 @@ Primarily written or developed by me. See below for different categories. Reuse 
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
 
 #### Blogs
+- [Inside the Phish: How a Phishing Campaign Really Works](https://www.lookingglasscyber.com/blog/inside-the-phish-how-a-phishing-campaign-really-works/?utm_source=Twitter&utm_medium=Social&utm_campaign=blog/inside-the-phish-how-a-phishing-campaign-really-works/)
 - [ATM Hacking - You Don't Have to Pay to Play](https://www.lookingglasscyber.com/blog/atm-hacking-you-dont-have-to-pay-to-play/)
 - [DDE Exploitation - Macros Aren't the Only Thing You Should be Counting](https://www.lookingglasscyber.com/blog/dde-exploitation-macros-arent-the-only-thing-you-should-be-counting/)
 - [Cryptojacking - Coming Soon to a Server Near You](https://www.lookingglasscyber.com/blog/cryptojacking-coming-soon-server-near/)
@@ -24,6 +25,8 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 - [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/)
 
 #### Workshops and Talks
+[Hacker Halted, 2018, Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
+
 [Defcon Skytalk, 2018, Hacking the Technical Interview](https://goo.gl/au31K2) - collaborated with [Kelley](https://twitter.com/CcSleuth)
 
 [WiCyS, 2018, Practical Network Forensics Workshop](https://goo.gl/vnq5mK) - collaborated with [Jennie Kam](https://twitter.com/TXJennieK) and [Ellie Daw](https://twitter.com/cryptoreo)
