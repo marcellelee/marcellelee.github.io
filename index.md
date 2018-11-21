@@ -1,17 +1,21 @@
 ## About Me
-Security practitioner, educator, and mentor. Passionate about network security, cyber competitions, and packet analysis. Advocate of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. 
+Security practitioner, educator, and mentor. Passionate about network security, cyber competitions, and packet analysis. Advocate of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. BTW,reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0). 
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
 ___
-## Resources
-### Resources Developed by Me
-Primarily written or developed by me. See below for different categories. Reuse is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0). 
+##  Websites
+These are some of my go-to [websites](https://goo.gl/u8q6HR).
 
-#### Packet Captures
+## Cheat Sheets
+Many awesome [cheat sheets]I have collected(https://goo.gl/XJd2KU).
+
+> You must be the change you wish to see in the world. ~ Mahatma Gandhi
+
+## My Packet Captures
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
 
-#### Blogs
+## My Blogs
 - [Inside the Phish: How a Phishing Campaign Really Works](https://www.lookingglasscyber.com/blog/inside-the-phish-how-a-phishing-campaign-really-works/?utm_source=Twitter&utm_medium=Social&utm_campaign=blog/inside-the-phish-how-a-phishing-campaign-really-works/)
 - [ATM Hacking - You Don't Have to Pay to Play](https://www.lookingglasscyber.com/blog/atm-hacking-you-dont-have-to-pay-to-play/)
 - [DDE Exploitation - Macros Aren't the Only Thing You Should be Counting](https://www.lookingglasscyber.com/blog/dde-exploitation-macros-arent-the-only-thing-you-should-be-counting/)
@@ -22,7 +26,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 - [Kickstarting Your Career in Cybersecurity - Networking](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee/)
 - [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/)
 
-#### Workshops and Talks
+## My Workshops and Talks
 [Hacker Halted, 2018, Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
 
 [Defcon Skytalk, 2018, Hacking the Technical Interview](https://goo.gl/au31K2) - collaborated with [Kelley](https://twitter.com/CcSleuth)
@@ -41,19 +45,8 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
+nothing to see here, move along please :p 
 <!-- youfoundit! -->
-
-___
-### Other Resources
-Things I regularly refer to and/or use.
-
-#### Websites
-These are some of my go-to [websites](https://goo.gl/u8q6HR).
-
-#### Cheat Sheets
-Many awesome [cheat sheets](https://goo.gl/XJd2KU).
-
-> You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
 #### Tools
 - [010 Hex Editor](https://www.sweetscape.com/010editor/) - hex editor
