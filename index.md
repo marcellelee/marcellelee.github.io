@@ -4,6 +4,9 @@ Security practitioner, educator, and mentor. Passionate about network security, 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
 ___
+
+##Resources
+
 ###  Websites
 These are some of my go-to [websites](https://goo.gl/u8q6HR).
 
