@@ -5,7 +5,7 @@ Security practitioner, educator, and mentor. Passionate about network security, 
 
 ___
 
-##Resources
+## Resources
 
 ###  Websites
 These are some of my go-to [websites](https://goo.gl/u8q6HR).
@@ -67,10 +67,12 @@ Ladies Capture the Digital World, March 2018
 ### Websites
 coming soon 
 ___
+
 ## Diversity in Tech
 coming soon
 ___
-## My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
+
+### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
 * GIAC Certified Intrusion Analyst (GCIA)
