@@ -4,18 +4,18 @@ Security practitioner, educator, and mentor. Passionate about network security, 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
 ___
-##  Websites
+###  Websites
 These are some of my go-to [websites](https://goo.gl/u8q6HR).
 
-## Cheat Sheets
+### Cheat Sheets
 My collection of [cheat sheets](https://goo.gl/XJd2KU).
 
 > You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
-## My Packet Captures
+### Packet Captures
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
 
-## My Blogs
+### Blogs
 - [Inside the Phish: How a Phishing Campaign Really Works](https://www.lookingglasscyber.com/blog/inside-the-phish-how-a-phishing-campaign-really-works/?utm_source=Twitter&utm_medium=Social&utm_campaign=blog/inside-the-phish-how-a-phishing-campaign-really-works/)
 - [ATM Hacking - You Don't Have to Pay to Play](https://www.lookingglasscyber.com/blog/atm-hacking-you-dont-have-to-pay-to-play/)
 - [DDE Exploitation - Macros Aren't the Only Thing You Should be Counting](https://www.lookingglasscyber.com/blog/dde-exploitation-macros-arent-the-only-thing-you-should-be-counting/)
@@ -26,7 +26,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 - [Kickstarting Your Career in Cybersecurity - Networking](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee/)
 - [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/)
 
-## My Workshops and Talks
+## Workshops and Talks
 [Hacker Halted, 2018, Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
 
 [Defcon Skytalk, 2018, Hacking the Technical Interview](https://goo.gl/au31K2) - collaborated with [Kelley](https://twitter.com/CcSleuth)
@@ -48,7 +48,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 nothing to see here, move along please :p 
 <!-- youfoundit! -->
 
-#### Tools
+## Tools I Love
 - [010 Hex Editor](https://www.sweetscape.com/010editor/) - hex editor
 - [Autopsy](https://www.sleuthkit.org/autopsy/) - forensic analysis
 - [FTK Imager](https://accessdata.com/product-download) - forensic acquisition
@@ -62,7 +62,7 @@ nothing to see here, move along please :p
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
 
-#### Podcasts
+## My Favorite Podcasts
 - Advanced Persistent Security
 - Beers with Talos
 - Brakeing Down Security
@@ -82,15 +82,15 @@ nothing to see here, move along please :p
 
 > If you're making mistakes it means you're out there doing something. ~ Neil Gaiman
 ___
-### Competition Resources
+# Competition Resources
 Ladies Capture the Digital World, March 2018
 
 ![Ladies Capture the Digital World](https://github.com/marcellelee/marcellelee.github.io/blob/master/assets/hackedctf.jpeg)
 
-#### Presentations About Competitions
+## Presentations About Competitions
 - [Gamification & Security Webinar](https://summits.brighttalk.com/webinar/gamification-and-security-the-role-of-competitions-in-readiness-and-defense/?utm_campaign=Twitter&utm_source=brighttalk-sharing&utm_medium=web)
 
-#### Websites with a Focus on Competitions
+## Websites
 - [CTF Time](https://ctftime.org/)
 - [Cyber CompEx](https://www.cybercompex.org/category/competitions/)
 - [AACC Cyber Club Challenges](https://cybercompaacc.com/challenges/)
