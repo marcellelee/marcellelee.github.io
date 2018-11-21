@@ -8,7 +8,7 @@ ___
 These are some of my go-to [websites](https://goo.gl/u8q6HR).
 
 ## Cheat Sheets
-Many awesome [cheat sheets]I have collected(https://goo.gl/XJd2KU).
+My collection of [cheat sheets](https://goo.gl/XJd2KU).
 
 > You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
