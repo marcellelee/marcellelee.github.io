@@ -1,5 +1,5 @@
 ## About Me
-Security practitioner, educator, and mentor. Passionate about network security, cyber competitions, and packet analysis. Advocate of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. BTW,reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0). 
+Security practitioner, educator, and mentor. Passionate about network security, cyber competitions, and packet analysis. Advocate of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). My blogposts are located on [Medium](https://medium.com/@marcellelee). You can also email me at marcellelee at protonmail.com. Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0). 
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
@@ -15,18 +15,7 @@ My collection of [cheat sheets](https://goo.gl/XJd2KU).
 ### Packet Captures
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
 
-### Blogs
-- [Inside the Phish: How a Phishing Campaign Really Works](https://www.lookingglasscyber.com/blog/inside-the-phish-how-a-phishing-campaign-really-works/?utm_source=Twitter&utm_medium=Social&utm_campaign=blog/inside-the-phish-how-a-phishing-campaign-really-works/)
-- [ATM Hacking - You Don't Have to Pay to Play](https://www.lookingglasscyber.com/blog/atm-hacking-you-dont-have-to-pay-to-play/)
-- [DDE Exploitation - Macros Aren't the Only Thing You Should be Counting](https://www.lookingglasscyber.com/blog/dde-exploitation-macros-arent-the-only-thing-you-should-be-counting/)
-- [Cryptojacking - Coming Soon to a Server Near You](https://www.lookingglasscyber.com/blog/cryptojacking-coming-soon-server-near/)
-- [Down the BadRabbit Hole: Ransomware Delivered by Fake Flash Updates](https://www.lookingglasscyber.com/blog/tech-corner/badrabbit-hole-ransomware-delivered-fake-flash-updates/)
-- [Kickstarting Your Career in Cybersecurity - Defining Your Path](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-defining-path-marcelle-lee/)
-- [Kickstarting Your Career in Cybersecurity - Cyber Competitions](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-cyber-competitions-lee/)
-- [Kickstarting Your Career in Cybersecurity - Networking](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee/)
-- [Kickstarting Your Career in Cybersecurity - Intro](https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-intro-marcelle-lee/)
-
-## Workshops and Talks
+### Materials from my Workshops and Talks
 [Hacker Halted, 2018, Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
 
 [Defcon Skytalk, 2018, Hacking the Technical Interview](https://goo.gl/au31K2) - collaborated with [Kelley](https://twitter.com/CcSleuth)
@@ -47,7 +36,7 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 
 <!-- youfoundit! -->
 
-## Tools I Love
+### Tools I Love
 - [010 Hex Editor](https://www.sweetscape.com/010editor/) - hex editor
 - [Autopsy](https://www.sleuthkit.org/autopsy/) - forensic analysis
 - [FTK Imager](https://accessdata.com/product-download) - forensic acquisition
