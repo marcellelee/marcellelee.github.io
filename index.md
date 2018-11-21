@@ -1,7 +1,5 @@
 ## About Me
-Security practitioner, educator, and mentor. Passionate about network security, user education, and digital forensics, particularly packet analysis. Courses I teach include network security, Security+ prep, digital forensics, and Linux.   Cyber competition enthusiast.  Advocate of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. 
-
-Thanks goes out to [Patrick Malanoski](https://www.linkedin.com/in/patrick-malanoski/), who built this page for me and who also teaches me about coding and cryptocurrency! Also, hat-tip to [Adam P](https://github.com/adam-p) for the super-helpful markdown cheatsheet. 
+Security practitioner, educator, and mentor. Passionate about network security, cyber competitions, and packet analysis. Advocate of diversity in tech.  Collector of certs and degrees.  Serial volunteer and [public speaker](https://goo.gl/7pXpL8).  You can find me on [Twitter](https://twitter.com/marcelle_fsg) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee@protonmail.com. 
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
