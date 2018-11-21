@@ -18,6 +18,8 @@ My collection of [cheat sheets](https://goo.gl/XJd2KU).
 ### Packet Captures
 I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teaching or giving workshops. A wide variety of protocols and topics are demonstrated in these captures. 
 
+> If you're making mistakes it means you're out there doing something. ~ Neil Gaiman
+
 ### Materials from my Workshops and Talks
 [Hacker Halted, 2018, Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
 
@@ -52,45 +54,23 @@ I build a lot of [packet captures](https://goo.gl/LtQb6W) that I use when teachi
 - [Wireshark](https://www.wireshark.org/) - network forensics
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
-
-## My Favorite Podcasts
-- Advanced Persistent Security
-- Beers with Talos
-- Brakeing Down Security
-- Darknet Diaries
-- Defensive Security
-- Down the Security Rabbit Hole
-- O'Reilly Security Podcast
-- Paul's Security Weekly
-- Recorded Future
-- Risky Business
-- Salted Hash
-- SANS Internet Storm Center
-- Smashing Security
-- The Cyberwire
-- The Shared Security Podcast
-- Unsupervised Learning with Daniel Miessler
-
-> If you're making mistakes it means you're out there doing something. ~ Neil Gaiman
 ___
-# Competition Resources
+
+## Competitions
 Ladies Capture the Digital World, March 2018
 
 ![Ladies Capture the Digital World](https://github.com/marcellelee/marcellelee.github.io/blob/master/assets/hackedctf.jpeg)
 
-## Presentations About Competitions
+### Presentations About Competitions
 - [Gamification & Security Webinar](https://summits.brighttalk.com/webinar/gamification-and-security-the-role-of-competitions-in-readiness-and-defense/?utm_campaign=Twitter&utm_source=brighttalk-sharing&utm_medium=web)
 
-## Websites
-- [CTF Time](https://ctftime.org/)
-- [Cyber CompEx](https://www.cybercompex.org/category/competitions/)
-- [AACC Cyber Club Challenges](https://cybercompaacc.com/challenges/)
-- [Mitre Cyber Competition Practice Range](http://mitrecyberacademy.org/practice/)
+### Websites
+coming soon 
 ___
-### Diversity in Tech
+## Diversity in Tech
 coming soon
 ___
-#### My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
+## My Certifications (not bragging - just listing in case anyone wants to know more about any of them)
 * Certified Information Systems Security Professional (CISSP)
 * GIAC Security Essentials (GSEC) 
 * GIAC Certified Intrusion Analyst (GCIA)
