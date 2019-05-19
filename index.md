@@ -61,11 +61,15 @@ Ladies Capture the Digital World, March 2018
 
 ![Ladies Capture the Digital World](https://github.com/marcellelee/marcellelee.github.io/blob/master/assets/hackedctf.jpeg)
 
-### Presentations About Competitions
-- [Gamification & Security Webinar](https://summits.brighttalk.com/webinar/gamification-and-security-the-role-of-competitions-in-readiness-and-defense/?utm_campaign=Twitter&utm_source=brighttalk-sharing&utm_medium=web)
-
 ### Websites
-coming soon 
+- [CTFtime](https://ctftime.org/) - comprehensive listing of upcoming cyber competitions
+- [WSC Competitions Slack](https://wsccompetitions.slack.com/) 
+- [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
+- [VulnHub Practice Site](https://www.vulnhub.com/)
+- [Over the Wire Practice Challenges](https://overthewire.org/wargames/)
+- [Hack the Box Practice Site](https://www.hackthebox.eu/individuals)
+- [PicoCTF CTF Guides](https://picoctf.com/resources)
+- [Gamification & Security Webinar](https://summits.brighttalk.com/webinar/gamification-and-security-the-role-of-competitions-in-readiness-and-defense/?utm_campaign=Twitter&utm_source=brighttalk-sharing&utm_medium=web)
 ___
 
 ## Diversity in Tech
@@ -83,7 +87,8 @@ ___
 * GIAC Information Security Fundamentals (GISF)
 * ISACA Certified Cybersecurity Practitioner (CSX-P)
 * EC Council Certified Ethical Hacker (CEH)
+* CompTIA PenTest+
 * CompTIA Security+  
 * CompTIA Network+ 
-* Cisco Certified Network Associate (CCNA) - expired
-* AccessData Certified Computer Examiner (ACE) - expired
+* Cisco Certified Network Associate (CCNA) 
+* AccessData Certified Computer Examiner (ACE) 
