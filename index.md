@@ -58,10 +58,18 @@ Ladies Capture the Digital World, March 2018
 - [CTFtime](https://ctftime.org/) - comprehensive listing of upcoming cyber competitions
 - [WSC Competitions Slack](https://wsccompetitions.slack.com/) 
 - [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf/blob/master/README.md) - nice curation of CTF resources
 - [VulnHub Practice Site](https://www.vulnhub.com/)
+- [OWASP Vulnerable Practice Sites](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Main)
+- [Honeynet Project Challenges](http://www.honeynet.org/challenges)
 - [Over the Wire Practice Challenges](https://overthewire.org/wargames/)
+- [AttackDefense Labs by PentesterAcademy](https://public.attackdefense.com)
 - [Hack the Box Practice Site](https://www.hackthebox.eu/individuals)
+- [SANS Holiday Hack Challenges](https://holidayhackchallenge.com/past-challenges/)
+- [SANS DFIR Challenges](https://digital-forensics.sans.org/blog/tags/forensic-challenges)
+- [Immersive Labs](https://immersivelabs.com/)
 - [PicoCTF CTF Guides](https://picoctf.com/resources)
+- [MITRE Cyber Range and Challenges](https://mitrecyberacademy.org/practice/)
 - [Gamification & Security Webinar](https://summits.brighttalk.com/webinar/gamification-and-security-the-role-of-competitions-in-readiness-and-defense/?utm_campaign=Twitter&utm_source=brighttalk-sharing&utm_medium=web)
 
 > If you're making mistakes it means you're out there doing something. ~ Neil Gaiman
