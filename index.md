@@ -61,6 +61,7 @@ Ladies Capture the Digital World, March 2018
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf/blob/master/README.md) - nice curation of CTF resources
 - [VulnHub Practice Site](https://www.vulnhub.com/)
 - [OWASP Vulnerable Practice Sites](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Main)
+- [HackyEaster 2019 Challenge Write-Ups](https://github.com/hackyeaster/he2019_writeup)
 - [Honeynet Project Challenges](http://www.honeynet.org/challenges)
 - [Over the Wire Practice Challenges](https://overthewire.org/wargames/)
 - [AttackDefense Labs by PentesterAcademy](https://public.attackdefense.com)
