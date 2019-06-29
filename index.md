@@ -42,7 +42,9 @@ Security researcher, educator, and mentor. Passionate about network security, [c
 ## Diversity in Tech
 
 [Women's Society of Cyberjutsu (WSC)](https://womenscyberjutsu.org)
+
 [Women in Cybersecurity (WiCyS)](https://wicys.org)
+
 [The Diana Initiative (TDI)](https://www.dianainitiative.org)
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
