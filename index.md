@@ -5,7 +5,7 @@ Security researcher, educator, and mentor. Passionate about network security, [c
 
 ## Resources
 
-###  Websites, Cheat Sheets,and Packet Captures
+###  Websites, Cheat Sheets, and Packet Captures
 - Go-to [websites](https://goo.gl/u8q6HR)
 - Collection of [cheat sheets](https://goo.gl/XJd2KU)
 - Custom-built [packet captures](https://goo.gl/LtQb6W)
