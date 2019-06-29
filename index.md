@@ -27,7 +27,6 @@ ___
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
 <!-- youfoundit! -->
-___
 
 ## Diversity in Tech
 
@@ -36,7 +35,6 @@ ___
 [The Diana Initiative (TDI)](https://www.dianainitiative.org)
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
-___
 
 ## Competitions
 Ladies Capture the Digital World, March 2018
@@ -54,7 +52,6 @@ Ladies Capture the Digital World, March 2018
 - [Gamification & Security Webinar](https://summits.brighttalk.com/webinar/gamification-and-security-the-role-of-competitions-in-readiness-and-defense/?utm_campaign=Twitter&utm_source=brighttalk-sharing&utm_medium=web)
 
 > If you're making mistakes it means you're out there doing something. ~ Neil Gaiman
-___
 
 ### My Certifications 
 * Certified Information Systems Security Professional (CISSP)
