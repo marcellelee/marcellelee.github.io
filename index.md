@@ -3,6 +3,8 @@ Security researcher, educator, and mentor. Passionate about network security, [c
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
+**New in January 2020** - [Journey to OSCP!](https://github.com/marcellelee/marcellelee.github.io/blob/master/pages/OSCP.md)
+
 ## Resources
 
 ###  Websites, Cheat Sheets, and Packet Captures
