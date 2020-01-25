@@ -2,9 +2,9 @@ theme: jekyll-theme-slate
 title: Marcelle's Resources
 author:
   name: Marcelle Lee
-  email : nil
+  email : marcellelee at protonmail.com
   github : marcellelee
-  twitter : nil
+  twitter : @marcellelee
   feedburner : nil
 description: Curated tips and tools
 exclude: ["README.md", "Rakefile", "LICENSE.md"]
