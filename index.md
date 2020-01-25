@@ -1,11 +1,11 @@
 ## About Me
-Security researcher, educator, and mentor. Passionate about network security, [cyber competitions](https://github.com/marcellelee/marcellelee.github.io/blob/master/index.md#competitions), and packet analysis. Advocate of [diversity](https://github.com/marcellelee/marcellelee.github.io/blob/master/index.md#diversity-in-tech) in tech. Collector of [certs](https://github.com/marcellelee/marcellelee.github.io/blob/master/index.md#my-certifications) and degrees. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee at protonmail.com. Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0). 
-
-> The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
+Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee at protonmail.com.  
 
 **New in January 2020** - [Journey to OSCP!](https://github.com/marcellelee/marcellelee.github.io/blob/master/pages/OSCP.md)
 
-## Resources
+> The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
+
+## Curated Resources
 
 ###  Websites, Cheat Sheets, and Packet Captures
 - Go-to [websites](https://goo.gl/u8q6HR)
@@ -15,6 +15,8 @@ Security researcher, educator, and mentor. Passionate about network security, [c
 > You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
 ### Selected Materials -- Workshops, Blogs, Articles, and Talks
+Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0).
+
 [Another Day, Another Fraudulent App](https://www.whiteops.com/blog/another-day-another-fraudulent-app) - researched and written in collaboration with [Aaron](https://twitter.com/aaronsdevera) and [Ian](https://twitter.com/palleiko)
 
 [Phishing Season Has Opened, Don't Get Hooked](https://www.mdcyber.com/blog/phishing-season/) - written for the Cybersecurity Association of Maryland
