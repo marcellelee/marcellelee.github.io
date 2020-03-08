@@ -17,27 +17,27 @@ Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/
 ### Selected Materials -- Workshops, Blogs, Articles, and Talks
 Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0).
 
+[BSidesNoVA 2020 Hacking the Technical Interview](https://drive.google.com/open?id=1VfK0OXf3brAqpLurqyH0PwcazXTHvkfz) 
+
 [Another Day, Another Fraudulent App](https://www.whiteops.com/blog/another-day-another-fraudulent-app) - researched and written in collaboration with [Aaron](https://twitter.com/aaronsdevera) and [Ian](https://twitter.com/palleiko)
 
 [Phishing Season Has Opened, Don't Get Hooked](https://www.mdcyber.com/blog/phishing-season/) - written for the Cybersecurity Association of Maryland
 
 [Stop Looking for the Purple Squirrel: What’s Wrong With Today’s Cybersecurity Hiring Practices](https://www.isaca.org/Journal/archives/2019/Volume-2/Pages/in-search-of-the-perfect-cybersecurity-job-candidate-you-are-looking-for-a-purple-squirrel.aspx#17) - written for the ISACA Journal
 
-[Hacker Halted, 2018, Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
+[Hacker Halted 2018 Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
 
 [ATM Hacking: You Don’t Have to Pay to Play](https://www.lookingglasscyber.com/blog/atm-hacking-you-dont-have-to-pay-to-play)
 
-[Defcon Skytalk, 2018, Hacking the Technical Interview](https://goo.gl/au31K2) - collaborated with [Kelley](https://twitter.com/CcSleuth)
-
 [DDE Exploitation – Macros Aren't the Only Thing You Should be Counting](https://www.lookingglasscyber.com/blog/dde-exploitation-macros-arent-the-only-thing-you-should-be-counting)
 
-[WiCyS, 2018, Practical Network Forensics Workshop](https://goo.gl/vnq5mK) - collaborated with [Jennie Kam](https://twitter.com/TXJennieK) and [Ellie Daw](https://twitter.com/cryptoreo)
+[WiCyS 2018 Practical Network Forensics Workshop](https://goo.gl/vnq5mK) - collaborated with [Jennie Kam](https://twitter.com/TXJennieK) and [Ellie Daw](https://twitter.com/cryptoreo)
 
 [Down the BADRABBIT Hole: Ransomware Delivered by Fake Flash Updates](https://www.lookingglasscyber.com/blog/tech-corner/badrabbit-hole-ransomware-delivered-fake-flash-updates)
 
-[CISSE 2017, The Art of Red and Blue Teaming: Teaching Cyber through Competition](https://goo.gl/VjPr4y) - in partnership with the [Women's Society of Cyberjutsu](https://womenscyberjutsu.com)
+[CISSE 2017 The Art of Red and Blue Teaming: Teaching Cyber through Competition](https://goo.gl/VjPr4y) - in partnership with the [Women's Society of Cyberjutsu](https://womenscyberjutsu.com)
 
-[BSidesNoVA 2017, Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
+[BSidesNoVA 2017 Dead Box...Not Dead Body Forensics 101 Workshop](https://goo.gl/5phzNp) - collaborated with [Dina Haines](https://twitter.com/dinaduncan)
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
