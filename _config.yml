@@ -4,7 +4,7 @@ author:
   name: Marcelle Lee
   email : marcellelee at protonmail.com
   github : marcellelee
-  twitter : @marcellelee
+  twitter : marcellelee
   feedburner : nil
 description: Curated tips and tools
 exclude: ["README.md", "Rakefile", "LICENSE.md"]
