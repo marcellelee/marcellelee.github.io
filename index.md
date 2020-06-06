@@ -1,8 +1,6 @@
 ## About Me
 Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee at protonmail.com.  
 
-**New in January 2020** - [Journey to OSCP!](https://github.com/marcellelee/marcellelee.github.io/blob/master/pages/OSCP.md)
-
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
 ## Curated Resources
@@ -41,7 +39,7 @@ Reuse of my materials is licensed under the [Creative Commons BY NC license](htt
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
-<!-- this-is-a-hidden-flag -->
+<!-- You found it! -->
 
 ## Diversity in Tech
 
