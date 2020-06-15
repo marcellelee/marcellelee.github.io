@@ -13,7 +13,7 @@ Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/
 > You must be the change you wish to see in the world. ~ Mahatma Gandhi
 
 ### Selected Materials -- Workshops, Blogs, Articles, and Talks
-Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/2.0).
+Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0).
 
 [BSidesNoVA 2020 Hacking the Technical Interview](https://drive.google.com/open?id=1VfK0OXf3brAqpLurqyH0PwcazXTHvkfz) 
 
