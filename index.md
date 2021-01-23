@@ -88,7 +88,8 @@ Ladies Capture the Digital World, March 2018
 * GIAC Critical Controls Certified (GCCC)
 * GIAC Information Security Fundamentals (GISF)
 * ISACA Certified Cybersecurity Practitioner (CSX-P)
-* EC Council Certified Ethical Hacker (CEH)
+* EC-Council Computer Hacking Forensic Investigator (C|HFI)
+* EC-Council Certified Ethical Hacker (C|EH)
 * CompTIA PenTest+
 * CompTIA Security+  
 * CompTIA Network+ 
