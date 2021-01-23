@@ -1,5 +1,5 @@
 ## About Me
-Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee at marcellelee.com.  
+Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcelle at marcellelee.com.  
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
