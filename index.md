@@ -1,5 +1,5 @@
 ## About Me
-Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee at protonmail.com.  
+Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcellelee at marcellelee.com.  
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
@@ -48,6 +48,7 @@ Reuse of my materials is licensed under the [Creative Commons BY NC license](htt
 [Women in Cybersecurity (WiCyS)](https://wicys.org)
 
 [The Diana Initiative (TDI)](https://www.dianainitiative.org)
+
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
 
