@@ -53,9 +53,6 @@ Reuse of my materials is licensed under the [Creative Commons BY NC license](htt
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ~ Margaret Mead
 
 ## Competitions
-Ladies Capture the Digital World, March 2018
-
-![Ladies Capture the Digital World](https://github.com/marcellelee/marcellelee.github.io/blob/master/assets/hackedctf.jpeg)
 
 ### Websites
 - [CTFtime](https://ctftime.org/) - comprehensive listing of upcoming cyber competitions
