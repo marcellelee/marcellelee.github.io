@@ -39,7 +39,7 @@ Reuse of my materials is licensed under the [Creative Commons BY NC license](htt
 
 > If you are in a male dominated workplace, don’t get too comfortable being the only woman in the room. Remember to try to find opportunities to bring other women in—to throw the rope down. It’s a dangerous thing to think: ‘I’m the woman in this room, so that’s my role.’ I try to tell young women—don’t be tricked into thinking that you’re in the field to compete with other women. ~ Tina Fey
 
-<!-- You found it! -->
+<!-- threat intelligence -->
 
 ## Diversity in Tech
 
