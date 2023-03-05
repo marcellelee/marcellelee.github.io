@@ -1,5 +1,5 @@
 ## About Me
-Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [author](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcelle at marcellelee.com.  
+Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/7pXpL8) and [blogger](https://medium.com/@marcellelee).  You can find me on [Twitter](https://twitter.com/marcellelee) and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcelle at marcellelee.com.  
 
 > The most dangerous phrase in the language is, ‘We’ve always done it this way.’ ~ Grace Hopper
 
@@ -15,13 +15,19 @@ Security researcher, educator, and packet nerd. [Public speaker](https://goo.gl/
 ### Selected Materials -- Workshops, Blogs, Articles, and Talks
 Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0).
 
+[BSidesCharm 2022 Let's Get Cooking with Cyberchef](https://www.youtube.com/watch?v=kI3EjPPWLmI)
+
+[Cyberwire Research Saturday Podcast: Instagram hijacks all start with a phish](https://thecyberwire.com/podcasts/research-saturday/220/notes)
+
+[Cyberjutsu Career Conversations Webinar](https://thecyberwire.com/podcasts/research-saturday/220/notes)
+
 [BSidesNoVA 2020 Hacking the Technical Interview](https://drive.google.com/open?id=1VfK0OXf3brAqpLurqyH0PwcazXTHvkfz) 
 
 [Another Day, Another Fraudulent App](https://www.whiteops.com/blog/another-day-another-fraudulent-app) - researched and written in collaboration with [Aaron](https://twitter.com/aaronsdevera) and [Ian](https://twitter.com/palleiko)
 
 [Phishing Season Has Opened, Don't Get Hooked](https://www.mdcyber.com/blog/phishing-season/) - written for the Cybersecurity Association of Maryland
 
-[Stop Looking for the Purple Squirrel: What’s Wrong With Today’s Cybersecurity Hiring Practices](https://www.isaca.org/Journal/archives/2019/Volume-2/Pages/in-search-of-the-perfect-cybersecurity-job-candidate-you-are-looking-for-a-purple-squirrel.aspx#17) - written for the ISACA Journal
+[Stop Looking for the Purple Squirrel: What’s Wrong With Today’s Cybersecurity Hiring Practices](https://www.isaca.org/resources/isaca-journal/issues/2019/volume-2/stop-looking-for-the-purple-squirrel-whats-wrong-with-todays-cybersecurity-hiring-practices) - written for the ISACA Journal
 
 [Hacker Halted 2018 Cryptojacking: Coming to a Universe Near You](https://goo.gl/V9w15E)
 
