@@ -1,12 +1,12 @@
 theme: jekyll-theme-slate
-title: Marcelle's Resources
+title: Marcelle Lee
 author:
   name: Marcelle Lee
-  email : marcellelee at protonmail.com
+  email : marcelle at marcellelee.com
   github : marcellelee
   twitter : marcellelee
   feedburner : nil
-description: Curated tips and tools
+description: Cybersecurity Resources
 exclude: ["README.md", "Rakefile", "LICENSE.md"]
 
 JB :
