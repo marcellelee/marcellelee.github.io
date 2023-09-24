@@ -2,7 +2,7 @@
 Security researcher, educator, and packet nerd. CTF builder and player. [Cyberjutsu](https://womenscyberjutsu.org/) board member. [Public speaker](https://goo.gl/7pXpL8) and [blogger](https://medium.com/@marcellelee).  You can find me on [BlueSky](https://staging.bsky.app/profile/marcelle.bsky.social), [Mastodon](https://infosec.exchange/@marcelle), [LinkedIn](https://www.linkedin.com/in/marcellelee/) and the platform formerly known as [Twitter](https://twitter.com/marcellelee). You can also email me at marcelle at marcellelee.com.  
 
 ## Curated Resources
-- Go-to Websites - from my bookmarks to yours
+- [Go-to Websites](https://docs.google.com/spreadsheets/d/1AkczyGQbtabSMbxq1P-c7u3NSXlmXqqv3cDoVpTlSoM/edit?usp=sharing) - from my bookmarks to yours
 - Favorite Tools - what's in your toolbox?
 - Cheat Sheets - my collection of awesome cheat sheets
 - Network Packet Analysis - sample captures and training material
