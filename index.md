@@ -3,9 +3,8 @@ Security researcher, educator, and packet nerd. CTF builder and player. [Cyberju
 
 ## Curated Resources
 - [Go-to Websites](https://docs.google.com/spreadsheets/d/1AkczyGQbtabSMbxq1P-c7u3NSXlmXqqv3cDoVpTlSoM/edit?usp=sharing) - from my bookmarks to yours
-- Favorite Tools - what's in your toolbox?
 - [Cheat Sheets](https://github.com/marcellelee/cheat-sheets) - my collection of awesome cheat sheets
-- Network Packet Analysis - sample captures and training material
+- [Network Packet Analysis](https://github.com/marcellelee/packet_analysis) - sample captures and training material
 - Competition Resources - CTFs are fun!
 
 ## Selected Webinars, Blogs, Books, Articles, and Talks
