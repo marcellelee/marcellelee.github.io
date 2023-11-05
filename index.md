@@ -5,12 +5,14 @@ Security researcher, educator, and packet nerd. CTF builder and player. [Cyberju
 - [Go-to Websites](https://docs.google.com/spreadsheets/d/1AkczyGQbtabSMbxq1P-c7u3NSXlmXqqv3cDoVpTlSoM/edit?usp=sharing) - from my bookmarks to yours
 - [Cheat Sheets](https://github.com/marcellelee/cheat-sheets) - my collection of awesome cheat sheets
 - [Network Packet Analysis](https://github.com/marcellelee/packet_analysis) - sample captures and training material
-- Competition Resources - CTFs are fun!
+- [CyberChef Recipes](https://github.com/marcellelee/cyberchef_recipes) - recipes and training material
 
 ## Selected Webinars, Blogs, Books, Articles, and Talks
 Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0). This means you can use my material but you have to give me credit it for it. A complete list of my public speaking engagements is available [here](https://goo.gl/7pXpL8). Check out my [Medium site](https://medium.com/@marcellelee) for more blogs.
 
-Book: [Bluenomicom, "Digital Forensics for the Blue Team"](https://www.splunk.com/en_us/form/the-network-defenders-compendium.html)
+Book: [Bluenomicom, "Digital Forensics for the Blue Team"]([https://www.splunk.com/en_us/form/the-network-defenders-compendium.html](https://www.splunk.com/en_us/pdfs/gated/ebooks/bluenomicon-the-network-defenders-compendium.pdf))
+
+White Paper: [Guide to Cybersecurity Competitions for Competitors](https://www.nist.gov/system/files/documents/2023/09/29/Guide%20for%20Competitors.pdf)
 
 Talk: [Let's Get Cooking with CyberChef, BSides Charm](https://www.youtube.com/watch?v=kI3EjPPWLmI)
 
