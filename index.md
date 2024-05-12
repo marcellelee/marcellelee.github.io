@@ -10,7 +10,9 @@ Security researcher, educator, and packet nerd. CTF builder and player. [Cyberju
 ## Selected Webinars, Blogs, Books, Articles, and Talks
 Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0). This means you can use my material but you have to give me credit it for it. A complete list of my public speaking engagements is available [here](https://goo.gl/7pXpL8). Check out my [Medium site](https://medium.com/@marcellelee) for more blogs.
 
-Book: [Bluenomicom, "Digital Forensics for the Blue Team"]([https://www.splunk.com/en_us/form/the-network-defenders-compendium.html](https://www.splunk.com/en_us/pdfs/gated/ebooks/bluenomicon-the-network-defenders-compendium.pdf))
+Keynote: [BSides Rochester - Beyond Ransomware: Examining the Shifting Cyber Landscape](https://diode.zone/w/bBaeKY9gQCxhPWVnQZrgQA)
+
+Book: [Bluenomicom, Digital Forensics for the Blue Team](https://www.splunk.com/en_us/pdfs/gated/ebooks/bluenomicon-the-network-defenders-compendium.pdf)
 
 White Paper: [Guide to Cybersecurity Competitions for Competitors](https://www.nist.gov/system/files/documents/2023/09/29/Guide%20for%20Competitors.pdf)
 
