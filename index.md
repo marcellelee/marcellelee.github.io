@@ -1,4 +1,4 @@
-## About Me
+## About Marcelle
 Security researcher, educator, and packet nerd. CTF builder and player. [Cyberjutsu](https://womenscyberjutsu.org/) board member. [Public speaker](https://github.com/marcellelee/public-speaking/blob/main/README.md) and [blogger](https://medium.com/@marcellelee).  You can find me on [BlueSky](https://staging.bsky.app/profile/marcelle.bsky.social), [Mastodon](https://infosec.exchange/@marcelle), and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcelle at marcellelee.com.  
 
 ## Curated Resources
