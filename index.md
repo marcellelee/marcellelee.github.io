@@ -8,7 +8,7 @@ Security researcher, educator, and packet nerd. CTF builder and player. [Cyberju
 - [CyberChef Resources](https://github.com/marcellelee/cyberchef_recipes) - recipes and training material
 
 ## Selected Webinars, Blogs, Books, Articles, and Talks
-Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0). This means you can use my material but you have to give me credit it for it. A complete list of my public speaking engagements is available [here](https://goo.gl/7pXpL8). Check out my [Medium site](https://medium.com/@marcellelee) for more blogs.
+Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0). This means you can use my material but you have to give me credit it for it. A complete list of my public speaking engagements is available [here](https://github.com/marcellelee/public-speaking/blob/main/README.md). Check out my [Medium site](https://medium.com/@marcellelee) for more blogs.
 
 Keynote: [BSides Rochester - Beyond Ransomware: Examining the Shifting Cyber Landscape](https://diode.zone/w/bBaeKY9gQCxhPWVnQZrgQA)
 
