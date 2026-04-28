@@ -10,7 +10,7 @@ Security researcher, educator, and packet nerd. CTF builder and player. [Cyberju
 ## Selected Blogs, Books and Articles
 Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0). This means you can use my material but you have to give me credit it for it. A complete list of my public speaking engagements is available [here](https://github.com/marcellelee/public-speaking/blob/main/README.md). Check out my [Medium site](https://medium.com/@marcellelee) for more blogs.
 
-Blog: [CTI tradecraft: Investigating a mobile scareware campaign](https://feedly.com/ti-essentials/posts/cti-tradecraft-investigating-a-mobile-scareware-campaign?utm_campaign=31864603-q425_ML_campaign_investigation&utm_source=marcelle_post)
+Blog: [CTI tradecraft: Investigating a mobile scareware campaign, Feedly](https://feedly.com/ti-essentials/posts/cti-tradecraft-investigating-a-mobile-scareware-campaign?utm_campaign=31864603-q425_ML_campaign_investigation&utm_source=marcelle_post)
 
 Book: [Bluenomicom, Digital Forensics for the Blue Team](https://www.splunk.com/en_us/pdfs/gated/ebooks/bluenomicon-the-network-defenders-compendium.pdf)
 
