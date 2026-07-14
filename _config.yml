@@ -4,9 +4,7 @@ author:
   name: Marcelle Lee
   email : marcelle at marcellelee.com
   github : marcellelee
-  twitter : marcellelee
-  feedburner : nil
-description: Cybersecurity Resources
+description: Cybersecurity Researcher, Consultant, Educator, Author
 exclude: ["README.md", "Rakefile", "LICENSE.md"]
 
 JB :
