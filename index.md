@@ -1,5 +1,21 @@
-## About Marcelle
-Founder and Principal Advisor at [Fractal Security Group](https://fractalsecuritygroup.com). Security researcher, educator, and author. Board member at [Cyberjutsu](https://womenscyberjutsu.org/) . [Public speaker](https://github.com/marcellelee/public-speaking) and [blogger](https://medium.com/@marcellelee).  You can find me on  [LinkedIn](https://www.linkedin.com/in/marcellelee/) and you can email me at marcelle at marcellelee.com.  
+## Marcelle Lee - Cybersecurity Researcher, Consultant, Educator, Author
+### ABOUT
+Founder and Principal Advisor at [Fractal Security Group](https://fractalsecuritygroup.com) where I help organizations translate complex threat intelligence into clear, business-aligned strategy. Over a career spanning threat intelligence, emerging threat research, and program development, I've built a reputation for turning technical depth into insight that strengthens client trust and guides executive decision-making.
+
+I lead cross-functional research initiatives and deliver briefings, tabletop exercises, and advisory services to clients, partners, and stakeholders across government and industry. A core part of my work is building and expanding strategic partnerships that improve intelligence sharing and organizational resilience.
+
+Beyond client work, I'm a frequent [public speaker](https://github.com/marcellelee/public-speaking) and [technical writer](https://medium.com/@marcellelee), publishing weekly threat research through my Cyber Threat Bulletin, and presenting at industry conferences, webinars, and training events. I also serve on the board of the [Cyberjutsu](https://womenscyberjutsu.org/), supporting the next generation of women in cybersecurity.
+
+### TECHNICAL SKILLS
+Cyber threat intelligence, TTP and campaign analysis, threat hunting, detection engineering, intrusion analysis, digital forensics, malware analysis, vulnerability research, network security, incident response, and agentic AI workflows and automation. Extensive research on cybercrime, state-sponsored activity, cloud infrastructure attacks, supply chain compromises, and attacks on development environments. Strong knowledge of MITRE ATT&CK and regulatory frameworks including GDPR. Experienced with SIEM, EDR, and firewall technologies.
+
+### LEADERSHIP & COMMUNICATION
+Strategic planning, program development, cross-functional leadership, client and partner advisory, executive communication, board-level briefings, technical writing, curriculum development, mentoring, thought leadership, and conference/webinar presentation.
+
+### CERTIFICATIONS
+CISSP · GCIA · GCFA · GCIH · GPEN · GCCC · CHFI · CEH · PenTest+ · CASP+ · Security+ · Network+
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/marcellelee/) and you can email me at marcelle at marcellelee.com.  
 
 
 ## Selected Blogs, Books and Articles
