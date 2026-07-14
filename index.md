@@ -1,14 +1,8 @@
 ## About Marcelle
-Security researcher, educator, and packet nerd. CTF builder and player. [Cyberjutsu](https://womenscyberjutsu.org/) board member. [Public speaker](https://github.com/marcellelee/public-speaking) and [blogger](https://medium.com/@marcellelee).  You can find me on [BlueSky](https://staging.bsky.app/profile/marcelle.bsky.social), [Mastodon](https://infosec.exchange/@marcelle), and [LinkedIn](https://www.linkedin.com/in/marcellelee/). You can also email me at marcelle at marcellelee.com.  
+Founder and Principal Advisor at [Fractal Security Group](https://fractalsecuritygroup.com). Security researcher, educator, and author. Board member at [Cyberjutsu](https://womenscyberjutsu.org/) . [Public speaker](https://github.com/marcellelee/public-speaking) and [blogger](https://medium.com/@marcellelee).  You can find me on  [LinkedIn](https://www.linkedin.com/in/marcellelee/) and you can email me at marcelle at marcellelee.com.  
 
-## Curated Resources
-- [Go-to Websites](https://docs.google.com/spreadsheets/d/1AkczyGQbtabSMbxq1P-c7u3NSXlmXqqv3cDoVpTlSoM/edit?usp=sharing) - from my bookmarks to yours
-- [Cheat Sheets](https://github.com/marcellelee/cheat-sheets) - my collection of awesome cheat sheets
-- [Network Packet Analysis](https://github.com/marcellelee/packet_analysis) - sample captures and training material
-- [CyberChef Resources](https://github.com/marcellelee/cyberchef_recipes) - recipes and training material
 
 ## Selected Blogs, Books and Articles
-Reuse of my materials is licensed under the [Creative Commons BY NC license](https://creativecommons.org/licenses/by-nc/4.0). This means you can use my material but you have to give me credit it for it. A complete list of my public speaking engagements is available [here](https://github.com/marcellelee/public-speaking/blob/main/README.md). Check out my [Medium site](https://medium.com/@marcellelee) for more blogs.
 
 Blog: [CTI tradecraft: Investigating a mobile scareware campaign, Feedly](https://feedly.com/ti-essentials/posts/cti-tradecraft-investigating-a-mobile-scareware-campaign?utm_campaign=31864603-q425_ML_campaign_investigation&utm_source=marcelle_post)
 
