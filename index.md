@@ -1,4 +1,3 @@
-## Marcelle Lee - Cybersecurity Researcher, Consultant, Educator, Author
 ### ABOUT
 Founder and Principal Advisor at [Fractal Security Group](https://fractalsecuritygroup.com) where I help organizations translate complex threat intelligence into clear, business-aligned strategy. Over a career spanning threat intelligence, emerging threat research, and program development, I've built a reputation for turning technical depth into insight that strengthens client trust and guides executive decision-making.
 
@@ -18,7 +17,9 @@ CISSP · GCIA · GCFA · GCIH · GPEN · GCCC · CHFI · CEH · PenTest+ · CASP
 You can find me on [LinkedIn](https://www.linkedin.com/in/marcellelee/) and you can email me at marcelle at marcellelee.com.  
 
 
-## Selected Blogs, Books and Articles
+### SELECTED PUBLICATIONS
+
+Blog: [Weekly Cyber Threat Bulletin](https://www.linkedin.com/newsletters/weekly-cyber-threat-bulletin-7353145636000604161)
 
 Blog: [CTI tradecraft: Investigating a mobile scareware campaign, Feedly](https://feedly.com/ti-essentials/posts/cti-tradecraft-investigating-a-mobile-scareware-campaign?utm_campaign=31864603-q425_ML_campaign_investigation&utm_source=marcelle_post)
 
