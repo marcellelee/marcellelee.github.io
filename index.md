@@ -3,7 +3,7 @@ Founder and Principal Advisor at [Fractal Security Group](https://fractalsecurit
 
 I lead cross-functional research initiatives and deliver briefings, tabletop exercises, and advisory services to clients, partners, and stakeholders across government and industry. A core part of my work is building and expanding strategic partnerships that improve intelligence sharing and organizational resilience.
 
-Beyond client work, I'm a frequent [public speaker](https://github.com/marcellelee/public-speaking) and [technical writer](https://medium.com/@marcellelee), publishing weekly threat research through my Cyber Threat Bulletin, and presenting at industry conferences, webinars, and training events. I also serve on the board of the [Cyberjutsu](https://womenscyberjutsu.org/), supporting the next generation of women in cybersecurity.
+Beyond client work, I'm a frequent [public speaker](https://speaking.marcellelee.com) and [technical writer](https://blog.marcellelee.com), publishing weekly threat research through my Cyber Threat Bulletin, and presenting at industry conferences, webinars, and training events. I also serve on the board of the [Cyberjutsu](https://womenscyberjutsu.org/), supporting the next generation of women in cybersecurity.
 
 ### Technical Skills
 Cyber threat intelligence, TTP and campaign analysis, threat hunting, detection engineering, intrusion analysis, digital forensics, malware analysis, vulnerability research, network security, incident response, and agentic AI workflows and automation. Extensive research on cybercrime, state-sponsored activity, cloud infrastructure attacks, supply chain compromises, and attacks on development environments. Strong knowledge of MITRE ATT&CK and regulatory frameworks including GDPR. Experienced with SIEM, EDR, and firewall technologies.
@@ -17,7 +17,7 @@ CISSP · GCIA · GCFA · GCIH · GPEN · GCCC · CHFI · CEH · PenTest+ · CASP
 You can find me on [LinkedIn](https://www.linkedin.com/in/marcellelee/) and you can email me at marcelle at marcellelee.com.  
 
 
-### SELECTED PUBLICATIONS
+### Selected Publications
 
 Blog: [Weekly Cyber Threat Bulletin](https://www.linkedin.com/newsletters/weekly-cyber-threat-bulletin-7353145636000604161)
 
