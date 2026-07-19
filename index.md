@@ -1,5 +1,5 @@
 ### About
-Founder and Principal Advisor at [Fractal Security Group](https://fractalsecuritygroup.com) where I help organizations translate complex threat intelligence into clear, business-aligned strategy. Over a career spanning threat intelligence, emerging threat research, and program development, I've built a reputation for turning technical depth into insight that strengthens client trust and guides executive decision-making.
+Founder and Principal Advisor at [Fractal Security Group](https://fractalsecuritygroup.com) where I help organizations translate complex cyber concepts into clear, business-aligned strategy. Over a career spanning threat intelligence, emerging threat research, and program development, I've built a reputation for turning technical depth into insight that strengthens client trust and guides executive decision-making.
 
 I lead cross-functional research initiatives and deliver briefings, tabletop exercises, and advisory services to clients, partners, and stakeholders across government and industry. A core part of my work is building and expanding strategic partnerships that improve intelligence sharing and organizational resilience.
 
